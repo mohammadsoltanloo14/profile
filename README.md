@@ -1,4 +1,4 @@
-[![MasterHead][([[https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io](https://www.techrepublic.com/wp-content/uploads/2022/07/top-ide-software-770x433.jpeg)](https://www.techrepublic.com/wp-content/uploads/2022/07/top-ide-software-770x433.jpeg))](https://www.techrepublic.com/wp-content/uploads/2022/07/top-ide-software-770x433.jpeg)
+[![MasterHead](https://www.techrepublic.com/wp-content/uploads/2022/07/top-ide-software-770x433.jpeg)
 <h1 align="center">Hi 👋, I'm mohammad soltanloo.</h1>
 <h3 align="center">a self-study web developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
